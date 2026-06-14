@@ -170,7 +170,6 @@ def main():
     if not show_disclaimer():
         print('已退出。')
         return
-    check_license()
 
     # 选模式
     print(f"""

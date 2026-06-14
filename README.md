@@ -16,9 +16,13 @@ python main.py
 | 课程模式 | 自动完成练习题，自定义正确率（固定/随机） |
 | 时长模式 | 多线程模拟学习时间 |
 
-## 获取授权
+## 使用
 
-首次运行需要 license.lic 授权文件，请购买授权后将文件放在程序目录下。
+```bash
+pip install requests colorama
+python main.py
+```
+启动后选择模式即可使用。
 
 ## 目录
 
