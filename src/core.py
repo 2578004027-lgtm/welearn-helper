@@ -1,5 +1,8 @@
 """
 WeLearn 网课助手 - 核心模块
+Copyright (c) 2025 缘
+本代码仅供学习交流，严禁商业用途。
+与上海外语教育出版社有限公司（WeLearn）无任何关联。
 """
 
 import time
