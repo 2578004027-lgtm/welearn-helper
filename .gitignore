@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.exe
+*.spec
+build/
+dist/
+private.key
+.vscode/
+.idea/
+*.bak
